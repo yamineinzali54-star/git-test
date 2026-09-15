@@ -11,7 +11,7 @@ print("Average Mark:", average)
 
 if average >= 50:
     print("Result: Pass")
-    print("Success)
+    print("Success")
 else:
     print("Result: Fail")
 
